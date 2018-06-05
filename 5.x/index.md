@@ -10,7 +10,7 @@ lib:
 # Routing framework
 
 **Opis Routing** is a framework for building various components that need routing capabilities. 
-As a routing framework, it may handle all sorts of paths, that are following a pattern, 
+As a routing framework, it may handle all sorts of paths that are following a pattern, 
 not being limited to HTTP request.
 
 ## License
