@@ -21,6 +21,7 @@ not being limited to HTTP request.
 
 * PHP 7.0 or higher
 * [Opis Closure] ^3.0
+* [Opis Pattern] ^3.0
 
 ## Installation
 
@@ -49,3 +50,4 @@ Or you could directly reference it into your `composer.json` file as a dependenc
 [Composer]: http://getcomposer.org "Composer" 
 {:ref="nofollow" target="_blank"}
 [Opis Closure]: https://www/opis.io/closure "Opis Closure"
+[Opis Pattern]: https://www/opis.io/pattern "Opis Pattern"
