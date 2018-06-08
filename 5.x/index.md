@@ -49,5 +49,5 @@ Or you could directly reference it into your `composer.json` file as a dependenc
 {:rel="nofollow" target="_blank"}
 [Composer]: http://getcomposer.org "Composer" 
 {:ref="nofollow" target="_blank"}
-[Opis Closure]: https://www/opis.io/closure "Opis Closure"
-[Opis Pattern]: https://www/opis.io/pattern "Opis Pattern"
+[Opis Closure]: https://www.opis.io/closure "Opis Closure"
+[Opis Pattern]: https://www.opis.io/pattern "Opis Pattern"
